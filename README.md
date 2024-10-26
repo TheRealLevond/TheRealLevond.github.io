@@ -1,7 +1,5 @@
-# TheRealLevond.github.io
-
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> TheRealLevond.github.io
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,12 +7,12 @@
 </head>
 <body>
     <header>
-        <h1>Your Name</h1>
-        <p>Welcome to my music portfolio!</p>
+        <h1>Levond</h1>
+        <p>The Real Ones!</p>
     </header>
-    <section id="music">
-        <h2>My Music</h2>
-        <!-- Embed your music links or audio files here -->
+    <section id="My Music!">
+        <h2>Spotify</h2>
+        
     </section>
     <section id="social-media">
         <h2>Follow Me</h2>

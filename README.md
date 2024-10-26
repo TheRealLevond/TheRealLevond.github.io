@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Name - Music Portfolio</title>
+    <title>Levond - The Real Ones </title>
 </head>
 <body>
     <header>

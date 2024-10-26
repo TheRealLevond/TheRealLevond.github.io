@@ -12,6 +12,7 @@
     </header>
     <section id="My Music!">
         <h2>Spotify</h2>
+        <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/track_id" width="300" height="380" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         
     </section>
     <section id="social-media">

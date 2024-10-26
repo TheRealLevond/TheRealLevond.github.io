@@ -12,7 +12,7 @@
     </header>
     <section id="My Music!">
         <h2>Spotify</h2>
-<a href="https://open.spotify.com/artist/6otgGqvFhZamZp5fIg7Lyz?si=CNY88r-8QIS9b-RBlMOpXA" target="_blank">Listen on Spotify</a>
+<a href="https://open.spotify.com/artist/6otgGqvFhZamZp5fIg7Lyz?si=CNY88r-8QIS9b-RBlMOpXA" target="_blank">Levond</a>
     </section>
     <section id="social-media">
         <h2>Follow Me</h2>

@@ -12,8 +12,7 @@
     </header>
     <section id="My Music!">
         <h2>Spotify</h2>
-        <iframe style="border-radius:12px" src="https://open.spotify.com/artist/6otgGqvFhZamZp5fIg7Lyz?si=TOuAR47-SeGcVPHWDyPQ6Q" width="300" height="380" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-        
+<a href="https://open.spotify.com/artist/6otgGqvFhZamZp5fIg7Lyz?si=CNY88r-8QIS9b-RBlMOpXA" target="_blank">Listen on Spotify</a>
     </section>
     <section id="social-media">
         <h2>Follow Me</h2>
